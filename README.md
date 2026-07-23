@@ -34,7 +34,7 @@ user:
   role: AI & Data Science Engineer | Full-Stack Developer
   location: India 🇮🇳
   passions:
-    - Artificial Intelligence & Machine Learning 🧠
+    - Artificial Intelligence & Data Science 🧠
     - Interactive & Responsive Web Applications 🌐
     - Automated Systems & Algorithm Design ⚡
   current_focus: Deep Learning, Next.js 14, & LLM Integrations
@@ -57,7 +57,7 @@ user:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / ML & Data Science
+### 🤖 AI & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
