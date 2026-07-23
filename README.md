@@ -189,7 +189,11 @@ user:
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://archive.org/details/programmersatwor00lamm" target="_blank" title="Bill Gates Interview (1986) - Programmers at Work">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote from Programmers at Work (1986)" />
+  </a>
+  <br />
+  <sub>📖 Original Quote Source: <a href="https://archive.org/details/programmersatwor00lamm"><em>Programmers at Work (1986)</em></a> by Susan Lammers</sub>
 </div>
 
 <br />
