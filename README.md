@@ -189,11 +189,11 @@ user:
 <br />
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/1550993.Programmers_at_Work" target="_blank" title="Programmers at Work (1986) by Susan Lammers">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote from Programmers at Work (1986)" />
+  <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank" title="Dynamic Computer Science Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Computer Science Quote" />
   </a>
   <br />
-  <sub>📖 Original Quote Source: <a href="https://www.goodreads.com/book/show/1550993.Programmers_at_Work"><em>Programmers at Work (1986)</em></a> by Susan Lammers</sub>
+  <sub>💡 <em>Dynamic Tech Quote (Rotates on each page refresh)</em> • Source: <a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></sub>
 </div>
 
 <br />
