@@ -189,11 +189,11 @@ user:
 <br />
 
 <div align="center">
-  <a href="https://archive.org/details/programmersatwor00lamm" target="_blank" title="Bill Gates Interview (1986) - Programmers at Work">
+  <a href="https://www.goodreads.com/book/show/1550993.Programmers_at_Work" target="_blank" title="Programmers at Work (1986) by Susan Lammers">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote from Programmers at Work (1986)" />
   </a>
   <br />
-  <sub>📖 Original Quote Source: <a href="https://archive.org/details/programmersatwor00lamm"><em>Programmers at Work (1986)</em></a> by Susan Lammers</sub>
+  <sub>📖 Original Quote Source: <a href="https://www.goodreads.com/book/show/1550993.Programmers_at_Work"><em>Programmers at Work (1986)</em></a> by Susan Lammers</sub>
 </div>
 
 <br />
