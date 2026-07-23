@@ -147,22 +147,22 @@ user:
 <div align="center">
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SINGH0883&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SINGH0883&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="49%" />
   </p>
   
   <br />
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff" alt="Streak Stats" width="98%" />
+    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff" alt="Streak Stats" width="98%" />
   </p>
 </div>
 
 <br />
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SINGH0883&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 <hr />
