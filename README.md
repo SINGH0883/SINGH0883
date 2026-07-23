@@ -153,7 +153,7 @@ user:
   
   <br />
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff" alt="Streak Stats" width="98%" />
+    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff&cache_seconds=1800&v=203" alt="Streak Stats" width="98%" />
   </p>
 </div>
 
@@ -162,7 +162,7 @@ user:
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true&v=203" alt="Activity Graph" width="98%" />
 </div>
 
 <hr />
