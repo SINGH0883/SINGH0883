@@ -195,5 +195,7 @@ user:
 <br />
 
 <div align="center">
-  <sub>Designed with ❤️ for <strong><a href="https://github.com/SINGH0883">Yuvraj Singh (SINGH0883)</a></strong> • Profile Visitor Counter: <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSINGH0883&count_bg=%237AA2F7&title_bg=%231A1B26&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" align="center" /></sub>
+  <img src="https://komarev.com/ghpvc/?username=SINGH0883&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br /><br />
+  <sub>Designed with ❤️ for <strong><a href="https://github.com/SINGH0883">Yuvraj Singh (SINGH0883)</a></strong></sub>
 </div>
