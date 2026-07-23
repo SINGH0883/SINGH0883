@@ -189,16 +189,6 @@ user:
 <br />
 
 <div align="center">
-  <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank" title="Dynamic Computer Science Quote">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Computer Science Quote" />
-  </a>
-  <br />
-  <sub>💡 <em>Dynamic Tech Quote (Rotates on each page refresh)</em> • Source: <a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></sub>
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SINGH0883&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br /><br />
   <sub>Designed with ❤️ for <strong><a href="https://github.com/SINGH0883">Yuvraj Singh (SINGH0883)</a></strong></sub>
