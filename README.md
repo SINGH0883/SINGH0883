@@ -191,5 +191,10 @@ user:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SINGH0883&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br /><br />
-  <sub>Designed with ❤️ for <strong><a href="https://github.com/SINGH0883">Yuvraj Singh (SINGH0883)</a></strong></sub>
+  <p align="center">
+    <a href="https://github.com/SINGH0883">
+      <img src="https://img.shields.io/badge/Architected_%26_Engineered_by-Yuvraj_Singh_%F0%9F%A4%96-7aa2f7?style=for-the-badge&logo=github&logoColor=0f172a" alt="Yuvraj Singh Signature" />
+    </a>
+  </p>
+  <sub>⚡ <em>"Transforming complex data into intelligent digital experiences."</em> • <strong><a href="https://github.com/SINGH0883">@SINGH0883</a></strong></sub>
 </div>
