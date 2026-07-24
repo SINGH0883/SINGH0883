@@ -147,13 +147,13 @@ user:
 <div align="center">
   <br />
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SINGH0883&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&count_private=true&v=230" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SINGH0883&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&v=230" alt="Top Languages" width="49%" />
   </p>
   
   <br />
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff&cache_seconds=1800&v=203" alt="Streak Stats" width="98%" />
+    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff&cache_seconds=60&v=230" alt="Streak Stats" width="98%" />
   </p>
 </div>
 
@@ -162,7 +162,7 @@ user:
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true&v=203" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true&v=230" alt="Activity Graph" width="98%" />
 </div>
 
 <hr />
