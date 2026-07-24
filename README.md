@@ -20,6 +20,9 @@
     <a href="https://github.com/SINGH0883">
       <img src="https://img.shields.io/badge/Status-Building_%F0%9F%94%A5-38bdf8?style=for-the-badge" alt="Status">
     </a>
+    <a href="https://buymeacoffee.com/">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    </a>
   </p>
 
 </div>
@@ -182,6 +185,9 @@ user:
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 
 </div>
