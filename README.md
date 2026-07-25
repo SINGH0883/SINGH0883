@@ -116,14 +116,15 @@ user:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🥗 Eat-Right-Now</h3>
+      <h3 align="center">🚀 Portfolio</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web-Application-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <p>Modern web application designed for instant meal discovery, healthy diet recommendations, and interactive nutrition tracking.</p>
+      <p>Modern interactive developer portfolio showcasing AI projects, responsive components, real-time analytics, and sleek UI animations.</p>
       <p align="center">
-        <a href="https://github.com/SINGH0883/Eat-Right-Now"><strong>Explore Repository »</strong></a>
+        <a href="https://github.com/SINGH0883/Portfolio"><strong>Explore Repository »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
