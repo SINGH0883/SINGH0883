@@ -127,14 +127,15 @@ user:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Yuvi-Master & GUCREATEID</h3>
+      <h3 align="center">🎨 TLBP_GFX</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p>Collection of master web utility scripts, algorithm utilities, and identity management portals built for efficiency.</p>
+      <p>Full-stack digital storefront, automated invoice & bill generator, administrative management panel, and client portal engine.</p>
       <p align="center">
-        <a href="https://github.com/SINGH0883/Yuvi-Master"><strong>Explore Repository »</strong></a>
+        <a href="https://github.com/SINGH0883/TLBP_GFX"><strong>Explore Repository »</strong></a>
       </p>
     </td>
   </tr>
