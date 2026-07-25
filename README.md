@@ -116,15 +116,15 @@ user:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Portfolio</h3>
+      <h3 align="center">🧮 NeoCalc_Pro</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live_Demo-🚀-38BDAE?style=flat-square" />
       </p>
-      <p>Modern interactive developer portfolio showcasing AI projects, responsive components, real-time analytics, and sleek UI animations.</p>
+      <p>Advanced web scientific calculator featuring calculation history, expression parsing, dark glassmorphism UI, and instant response engine.</p>
       <p align="center">
-        <a href="https://github.com/SINGH0883/Portfolio"><strong>Explore Repository »</strong></a>
+        <a href="https://github.com/SINGH0883/NeoCalc_Pro"><strong>Explore Repository »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
