@@ -90,15 +90,15 @@ user:
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Engineer Portfolio</h3>
+      <h3 align="center">🌐 TransNova Chat Translator</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Manifest-V3-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p>Interactive portfolio featuring neural network canvas visualizer, AI model playground, real-time analytics, and sleek cyberpunk aesthetic UI.</p>
+      <p>Real-time bidirectional Hindi ↔ English translation Chrome Extension for web chat apps like WhatsApp, Telegram, Discord, Slack, and Messenger.</p>
       <p align="center">
-        <a href="https://github.com/SINGH0883"><strong>Explore Project »</strong></a>
+        <a href="https://github.com/SINGH0883/TransNova"><strong>Explore Repository »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
