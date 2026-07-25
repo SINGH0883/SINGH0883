@@ -147,7 +147,7 @@ user:
 <div align="center">
   <br />
   <p align="center">
-    <img src="https://github-readme-stats-server.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-server.vercel.app/api?username=SINGH0883&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=0" alt="GitHub Stats" width="49%" />
     <img src="https://github-readme-stats-server.vercel.app/api/top-langs/?username=SINGH0883&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&count_private=true&cache_seconds=0" alt="Top Languages" width="49%" />
   </p>
   
