@@ -163,7 +163,7 @@ user:
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&area=true&hide_border=true&cache_seconds=0&cb=1" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true&cache_seconds=0&cb=1" alt="Activity Graph" width="98%" />
 </div>
 
 <hr />
