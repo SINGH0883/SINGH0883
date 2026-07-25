@@ -153,7 +153,7 @@ user:
   
   <br />
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff&cache_seconds=60&v=230" alt="Streak Stats" width="98%" />
+    <img src="https://streak-stats.demolab.com?user=SINGH0883&theme=tokyonight&timezone=Asia/Kolkata&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=7dcfff" alt="Streak Stats" width="98%" />
   </p>
 </div>
 
