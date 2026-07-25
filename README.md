@@ -186,6 +186,15 @@ user:
 
 </div>
 
+
+<hr />
+
+## 📄 License
+
+This repository and associated code are open-source software licensed under the **[MIT License](LICENSE)**.
+
+---
+
 <br />
 
 <div align="center">
