@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Header -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/SINGH0883">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+There!+I'm+Yuvraj+Singh+%F0%9F%90%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
