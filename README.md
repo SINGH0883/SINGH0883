@@ -116,15 +116,15 @@ user:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧮 NeoCalc_Pro</h3>
+      <h3 align="center">⚡ YuvX — Live Streaming</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Live_Demo-🚀-38BDAE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
       </p>
-      <p>Advanced web scientific calculator featuring calculation history, expression parsing, dark glassmorphism UI, and instant response engine.</p>
+      <p>High-performance cross-platform live sports & TV streaming platform for Windows & Android with adaptive HLS playback.</p>
       <p align="center">
-        <a href="https://github.com/SINGH0883/NeoCalc_Pro"><strong>Explore Repository »</strong></a>
+        <a href="https://github.com/SINGH0883/YuvX-app"><strong>Explore Repository »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -158,13 +158,6 @@ user:
   </p>
 </div>
 
-<br />
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SINGH0883&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true&cache_seconds=0&cb=1" alt="Activity Graph" width="98%" />
-</div>
 
 <hr />
 
