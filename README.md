@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://www.iamyuvi.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=65&lines=Hi+There!+I'm+Yuvraj+Singh+%E2%9C%A8;AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Web+%26+App+Architect+%F0%9F%92%BB;Building+Intelligent+%26+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=65&lines=Hi+There!+I'm+Yuvraj+Singh+%E2%9C%A8;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG Header" />
   </a>
 
   <p align="center">
-    <strong>🚀 Transforming complex data & ideas into high-performance, intelligent digital realities.</strong>
+    <strong>🚀 Passionate AI & Data Science Student crafting interactive web apps and intelligent solutions.</strong>
   </p>
 
   <!-- Live Status & Quick Action Badges -->
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/github/followers/SINGH0883?style=for-the-badge&logo=github&color=0ea5e9&logoColor=white" alt="GitHub Followers" />
     </a>
     <a href="https://github.com/SINGH0883">
-      <img src="https://img.shields.io/badge/Status-Building_Next_Gen_AI_%F0%9F%94%A5-f59e0b?style=for-the-badge" alt="Current Status" />
+      <img src="https://img.shields.io/badge/Status-Learning_%26_Building_%F0%9F%94%A5-f59e0b?style=for-the-badge" alt="Current Status" />
     </a>
   </p>
 
@@ -32,24 +32,18 @@
 ### 💫 About Me
 
 ```yaml
-identity:
+student:
   name: Yuvraj Singh
-  alias: Yuvi
+  field: AI & Data Science 🎓
   location: Delhi, India 🇮🇳
   portfolio: https://www.iamyuvi.me
-  
-core_disciplines:
-  - 🧠 Artificial Intelligence & Applied Machine Learning
-  - ⚡ Full-Stack Web & Next-Generation Application Engineering
-  - 🌐 High-Throughput RESTful APIs & Distributed Cloud Systems
-  - 🎨 Modern Glassmorphic UI/UX & Responsive Interaction Design
 
-current_focus:
-  - Scalable Microservices with Next.js 16 App Router & Prisma
-  - Intelligent Scheduling Engines & Neural Optimization
-  - Real-Time Cross-Platform Media Telecasting Architecture
+focus:
+  - 🧠 Artificial Intelligence & Data Science
+  - 🌐 Full-Stack Web Development (Next.js & TypeScript)
+  - ⚡ Building Real-World Interactive Projects
 
-  mantra: "Code is like humor. When you have to explain it, it's bad."
+mantra: "Code is like humor. When you have to explain it, it's bad."
 ```
 
 ---
@@ -62,7 +56,7 @@ current_focus:
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Web & Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **AI & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
