@@ -1,0 +1,14 @@
+<svg width="100%" height="auto" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dual Ambient Gradient Waves -->
+  <path d="M0 35 C 300 0, 600 65, 900 20 C 1050 0, 1150 40, 1200 30 L 1200 80 L 0 80 Z" fill="url(#footerWave)" fill-opacity="0.35"/>
+  <path d="M0 50 C 350 20, 700 70, 1000 35 C 1120 20, 1170 55, 1200 50 L 1200 80 L 0 80 Z" fill="url(#footerWave)" fill-opacity="0.75"/>
+  <path d="M0 65 C 400 45, 800 75, 1200 60 L 1200 80 L 0 80 Z" fill="url(#footerWave)"/>
+</svg>
